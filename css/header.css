@@ -120,10 +120,10 @@
         font-size: 20px;
         color: black;
     }
-    .header {
-        margin: 0 2em;
-    }
     .opcoes {
         margin-right: auto;
+    }
+    .container__texto {
+        margin-right: 1em;
     }
 }

@@ -36,6 +36,9 @@
     .topicos__link {
         font-size: 24px;
     }
+    .topicos {
+        padding: 2em 15vw;
+    }
 }
 
 @media screen and (min-width: 1728px) {
